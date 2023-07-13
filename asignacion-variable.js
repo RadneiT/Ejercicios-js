@@ -11,20 +11,21 @@
 */ 
 
 // solucion
-/**/
-function nameString(name){
+/*function nameString(name){
 	var b = "Edabit"
 	var result = name + b
   	return result
-}
+}*/
+
 
 // solucion 2
 /* 
+
+*/
 const nameString = name => {
 	let concate = name + 'Edabit'
 	return concate
 }
-*/
 
 // solucion 3
 // const nameString = name => name + "Edabit"
